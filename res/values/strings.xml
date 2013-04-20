@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WE/SPLIT</string>
+    <string name="title">WE/SPLIT</string>
+    <string name="txtPassword">Password</string>
+    <string name="txtUser">Username</string>
+    <string name="buttonSignUp">New User?</string>
+    <string name="buttonLogin">Login</string>
+    <string name="email">Email ID</string>
+    <string name="newUser">Sign Up</string>
+    <string name="buttonRegister">Register</string>
+    <string name="buttonCancel">Cancel</string>
+    
+    
+
+
+</resources>
