@@ -1,4 +1,4 @@
-package com.example.we_split;
+package com.vacuumhead.wesplit.android;
 
 
 import android.os.Bundle;
@@ -9,6 +9,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+import com.example.we_split.R;
 
 public class MainActivity<DbHelper> extends Activity implements OnClickListener {
     

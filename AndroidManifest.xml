@@ -14,7 +14,7 @@
         android:label="WE/SPLIT"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.we_split.Splash"
+            android:name="com.vacuumhead.wesplit.android.Splash"
             android:label="WE/SPLIT" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,11 +23,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.we_split.MainActivity"
+            android:name="com.vacuumhead.wesplit.android.MainActivity"
             android:label="WE/SPLIT" >
         </activity>    
         <activity
-            android:name="com.example.we_split.NewUserActivity"
+            android:name="com.vacuumhead.wesplit.android.NewUserActivity"
             android:label="New User" >
         </activity>
     </application>
